@@ -2,6 +2,7 @@
   <img src="./Banner.png" width="100%" style="border-radius:12px;" />
 </p>
 # Hi, I'm **Amir** ツ  
+
 Frontend Developer — Passionate about clean, minimal, functional, and boundary-breaking UI
 
 ---
