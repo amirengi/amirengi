@@ -1,19 +1,21 @@
-<!-- Banner image — replace URL with your chosen wide wallpaper -->
-# Hi, I'm **Amir** 🌙  
-Frontend Developer — Passionate about clean, minimal, functional UI  
+<p align="center">
+  <img src="./Banner.png" width="100%" style="border-radius:12px;" />
+</p>
+# Hi, I'm **Amir** ツ  
+Frontend Developer — Passionate about clean, minimal, functional, and boundary-breaking UI
 
 ---
 
 ## 🧑‍💻 About Me  
-- 26 years old.  
+- Born in 1999.  
 - 5 years of experience building large-scale enterprise panels & web apps.  
 - 3 years as Frontend Team Lead — I value clarity, discipline, and getting the job done.  
-- I see every project as a canvas: clean, aesthetic, functional — like art meets engineering.
+- Inspired by the art of nature, I build architecture.
 
 ---
 
 ## ⚙️ Tech & Tools  
-HTML · CSS · JS · SASS / SCSS / LESS · Bootstrap · Tailwind · TypeScript · jQuery · Angular · Angular Universal · RxJS  
+HTML · CSS · JS · SASS / SCSS / LESS · Bootstrap · Tailwind · TypeScript · jQuery · Angular · primeNg · Angular Universal · RxJS  
 
 ---
 
@@ -31,7 +33,3 @@ HTML · CSS · JS · SASS / SCSS / LESS · Bootstrap · Tailwind · TypeScript �
 > **"Life is a trade-off — so make a good deal."**  
 
 ---
-
-### 🔭 What I’m doing now  
-Exploring new frontend patterns, optimizing UI/UX, and building neat, maintainable code — all with a minimalist mindset.  
-
